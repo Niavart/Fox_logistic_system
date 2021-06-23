@@ -11,6 +11,19 @@
     "craftableInMpf": true,
     "requireTech": true,
     "ammo": []
+  },  
+  {
+    "category": "vehicle",
+    "key": "Gallant_30mm",
+    "name": "FAKE Dune Responder 3e",
+    "bmat": 1500,
+    "emat": 0,
+    "hemat": 10,
+    "rmat": 0,
+    "mpfTime": 7500,
+    "craftableInMpf": true,
+    "requireTech": true,
+    "ammo": ["7.92"]
   },
   {
     "category": "vehicle",
