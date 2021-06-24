@@ -10,5 +10,5 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:Niavart/Fox_logistic_system.git main:gh-pages
+git push -f git@github.com:Niavart/Fox_logistic_system.git master:gh-pages
 cd -

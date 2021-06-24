@@ -1,7 +1,7 @@
 const Mode = require('frontmatter-markdown-loader/mode')
 
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/fox_logistic_system/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/Fox_logistic_system/' : '/',
   transpileDependencies: [
     'vuetify'
   ],
