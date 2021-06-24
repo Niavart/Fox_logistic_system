@@ -10,5 +10,5 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:NicolasBarlogis/foxhole-logi-calculator.git master:gh-pages
+git push -f git@github.com:Niavart/Fox_logistic_system.git main:gh-pages
 cd -
